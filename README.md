@@ -5,7 +5,7 @@
 1. WIFI控制平台.PcbDoc
 2. WIFI控制平台.SchDoc
 3. WIFI控制平台.pdf
-4. WIFI控制平台.xlsx
+4. WIFI控制平台.xlsx 元器件清单
 5. 原理图.png
 6. STM32_ESP8266.png (3D效果图片)
 7. WIFI控制平台.PrjPCB(工程)
