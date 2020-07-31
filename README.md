@@ -11,6 +11,6 @@
 7. WIFI控制平台.PrjPCB(工程)
 8. readme.md (介绍文档)
 ##### STM32_ESP8266.png (3D效果图片)
-![avatar](https://raw.githubusercontent.com/delehub/STM32_ESP8266-PCB/master/WIFI%E6%8E%A7%E5%88%B6%E5%B9%B3%E5%8F%B0%E5%8E%9F%E7%90%86%E5%9B%BEPCB/STM32_ESPB266.png)
+![avatar](https://s1.ax1x.com/2020/07/31/aQh98e.png)
 ### 个人博客<https://www.delehub.top/>
 #### github仓库地址<https://github.com/delehub/STM32_ESP8266-PCB>
