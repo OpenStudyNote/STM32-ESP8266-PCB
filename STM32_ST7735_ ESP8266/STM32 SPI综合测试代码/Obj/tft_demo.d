@@ -1,0 +1,14 @@
+.\obj\tft_demo.o: user\TFT_demo.c
+.\obj\tft_demo.o: user\stm32f10x.h
+.\obj\tft_demo.o: user\core_cm3.h
+.\obj\tft_demo.o: F:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\tft_demo.o: user\system_stm32f10x.h
+.\obj\tft_demo.o: user\stm32f10x_conf.h
+.\obj\tft_demo.o: .\FWlib\inc\stm32f10x_gpio.h
+.\obj\tft_demo.o: .\user\stm32f10x.h
+.\obj\tft_demo.o: .\FWlib\inc\stm32f10x_rcc.h
+.\obj\tft_demo.o: user\Lcd_Driver.h
+.\obj\tft_demo.o: user\GUI.h
+.\obj\tft_demo.o: user\delay.h
+.\obj\tft_demo.o: user\Picture.h
+.\obj\tft_demo.o: user\TFT_demo.h
