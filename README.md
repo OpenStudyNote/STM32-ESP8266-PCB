@@ -21,4 +21,4 @@
 
 ### 个人博客<https://www.delehub.top/>
 #### github仓库地址<https://github.com/delehub/STM32_ESP8266-PCB>
-#### Gitee地址<https://gitee.com/lemonhubchat/STM32_ESP8266-PCB>
+#### Gitee地址<https://gitee.com/lemonhubchat/STM32_ESP8266-PCB-Example>
