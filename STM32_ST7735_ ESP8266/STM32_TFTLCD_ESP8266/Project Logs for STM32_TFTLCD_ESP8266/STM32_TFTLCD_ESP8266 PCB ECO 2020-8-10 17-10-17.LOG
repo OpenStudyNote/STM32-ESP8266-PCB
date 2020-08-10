@@ -1,0 +1,19 @@
+Added Component: Designator=GND(Fe-HDR1X7/2.54-S)
+Added Component: Designator=VCC(Fe-HDR1X7/2.54-S)
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=GND-2
+Added Pin To Net: NetName=GND Pin=GND-3
+Added Pin To Net: NetName=GND Pin=GND-4
+Added Pin To Net: NetName=GND Pin=GND-5
+Added Pin To Net: NetName=GND Pin=GND-6
+Added Pin To Net: NetName=GND Pin=GND-7
+Added Pin To Net: NetName=3.3V Pin=VCC-1
+Added Pin To Net: NetName=3.3V Pin=VCC-2
+Added Pin To Net: NetName=3.3V Pin=VCC-3
+Added Pin To Net: NetName=3.3V Pin=VCC-4
+Added Pin To Net: NetName=3.3V Pin=VCC-5
+Added Pin To Net: NetName=3.3V Pin=VCC-6
+Added Pin To Net: NetName=3.3V Pin=VCC-7
+Added Member To Class: ClassName=STM32_TFTLCD_ESP8266 Member=Component GND Female HDR1X7
+Added Member To Class: ClassName=STM32_TFTLCD_ESP8266 Member=Component VCC Female HDR1X7
+Added Room: Name=STM32_TFTLCD_ESP8266

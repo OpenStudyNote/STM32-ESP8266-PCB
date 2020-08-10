@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\Electronic  Programming\Hardware--PCB Design\STM32 TFT ESP8266-01\STM32_ST7735_ ESP8266\STM32_TFTLCD_ESP8266\STM32_TFTLCD_ESP8266.PcbDoc
+Date         : 2020/8/10
+Time         : 17:15:44
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 100
+    Connections routed, 100
+    Connections remaining, 0
+count : 4

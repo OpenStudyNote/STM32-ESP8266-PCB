@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PA5 Pin=D2-K
+Added Pin To Net: NetName=PB8 Pin=D2-K
+Added Room: Name=STM32_TFTLCD_ESP8266
