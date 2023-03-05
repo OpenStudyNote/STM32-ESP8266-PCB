@@ -18,7 +18,3 @@
 4. STM32 SPI综合测试代码
 5. 驱动芯片资料ST7735
 6. 1.44寸串口液晶屏原理图PCB封装
-
-### 个人博客<https://www.delehub.top/>
-#### github仓库地址<https://github.com/delehub/STM32_ESP8266-PCB>
-#### Gitee地址<https://gitee.com/lemonhubchat/STM32_ESP8266-PCB-Example>
